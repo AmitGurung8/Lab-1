@@ -40,6 +40,6 @@ public class Burger {
     }
 
     public String toString() {
-        return "Your Burger details Senpai {" + "name='" + getName() + '\'' +", price=" + getPrice() + ", calories=" + getCalories() +'}';
+        return "Your Burger details  {" + "name='" + getName() + '\'' +", price=" + getPrice() + ", calories=" + getCalories() +'}';
     }
 }
